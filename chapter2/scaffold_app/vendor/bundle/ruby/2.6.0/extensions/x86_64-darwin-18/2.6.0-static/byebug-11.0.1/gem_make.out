@@ -1,0 +1,19 @@
+current directory: /Users/cain/workspace/ruby/genba_rails/second/scaffold_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+/Users/cain/.rbenv/versions/2.6.3/bin/ruby -I /Users/cain/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190428-28703-5mjml3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/cain/workspace/ruby/genba_rails/second/scaffold_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/cain/workspace/ruby/genba_rails/second/scaffold_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/cain/workspace/ruby/genba_rails/second/scaffold_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190428-28703-1wbg9v0/byebug
